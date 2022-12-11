@@ -19,12 +19,21 @@ html {
 body {
   overflow-x: hidden;
   text-decoration: none;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
+  font-family: "Poppins", sans-serif;
   color: #222;
-  padding: 25% 0;
+  background-color: #ddd;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+img {
+  object-fit: contain;
+  max-width: 100%;
 }

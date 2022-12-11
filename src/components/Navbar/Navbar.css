@@ -1,0 +1,12 @@
+.navbar__parent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    padding: 20px 40px;
+}
+
+.navbar__parent h3 {
+    font-size: 20px;
+    font-weight: 500;
+}

@@ -1,9 +1,12 @@
+import Banner from './components/Banner/Banner';
+import Navbar from './components/Navbar/Navbar';
 import './index.css'
 
 function App() {
   return (
     <div className="App">
-      <h2>Hello there, this is a test website for the AWS Lex bot.</h2>
+      <Navbar/>
+      <Banner/>
     </div>
   );
 }
