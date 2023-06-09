@@ -1,4 +1,4 @@
- # Dash Language School - A Language School to learn foreign languages.
+ # DEXA - An AI ChatBot Powered by AWS Lambda, AWS Lex, AWS CLoudFormation and React.js.
 
 The main purpose of this project was to build an AI Chatbot Assistant prototype powered by Amazon Web Services like Lambda, Lex, CloudFormation. This chatbot was integrated with React.js to provide a User Interface where the AI playground can be accessed and utilized.
 
